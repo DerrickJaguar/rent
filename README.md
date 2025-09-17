@@ -88,7 +88,7 @@ A comprehensive, professional rental management system built for landlords to ma
 
    ```bash
    git clone <repository-url>
-   cd rental-management-system
+   cd rent
    ```
 
 2. **Install dependencies**
