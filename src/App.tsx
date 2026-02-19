@@ -25,7 +25,7 @@ function AuthenticatedApp() {
   }
 
   return (
-    <div className="flex h-screen bg-gray-50">
+    <div className="flex h-screen bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-50">
       <Sidebar onLogout={logout} />
       <div className="flex-1 flex flex-col overflow-hidden">
         <Header user={user} onLogout={logout} />
